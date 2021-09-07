@@ -11,6 +11,7 @@ Feel free to use my source for your own uses, not that I'd reccomend it as this 
 <p>
 <img width="400" alt="Screen Shot 2020-03-09 at 3 36 20 pm" src="https://i.imgur.com/LJRwx7m.png">
 </p>
+<p>Tested on an iPhone 12 Mini</p>
 
 ## Getting Started
 
