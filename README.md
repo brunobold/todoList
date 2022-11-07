@@ -16,7 +16,7 @@ Feel free to use my source for your own uses, not that I'd reccomend it as this 
 ## Getting Started
 
 ## Pre-requisties
-  - Make sure you have [Node 10 LTS](https://nodejs.org/en/download/) or later installed.
+  - Make sure you have [Node LTS](https://nodejs.org/en/download/) or later installed.
   - You can use npm to install the Expo CLI command line utility:
       ```
       npm install -g expo-cli
